@@ -1,12 +1,12 @@
-# Hi there, I'm Kingshuk  👋
-![](https://visitor-badge.laobi.icu/badge?page_id=kingshuk01.kingshuk01)
-## I am Btech CSE student in VIT Chennai
+# Hey, this is Kingshuk  👋
 
-- 🔭 I am passionate frontend Developer.
-- 🌱 I’m currently exploring Android Development.
-- 🥅 Other than coding I am into reading fantasy fiction novels.
+## I am Software developer, currently pursuing my Btech in CSE.
 
- - 👨‍💻 All of my projects are available in my [website](www.google.com)
+- 💻 I am a full stack Developer.
+- 📱 I also develop native apps
+- 📷 I also have some experience in computer vision
+
+<!--  - 👨‍💻 All of my projects are available in my [website] -->
 
 
 ## Languages and Tools:
@@ -38,6 +38,9 @@
 <br />
 <br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kingshuk01&show_icons=true&theme=tokyonight)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=kingshuk01.kingshuk01)
+
 
 
 [website]: www.google.com/
