@@ -1,5 +1,5 @@
 # Hi there, I'm Kingshuk  👋
-![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuBarak.HimanshuBarak)
+![](https://visitor-badge.laobi.icu/badge?page_id=kingshuk01.kingshuk01)
 ## I am a Sophomore, Btech CSE student in VIT Chennai
 
 - 🔭 I am passionate frontend Developer.
