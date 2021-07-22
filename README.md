@@ -1,6 +1,6 @@
 # Hi there, I'm Kingshuk  👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=kingshuk01.kingshuk01)
-## I am a Sophomore, Btech CSE student in VIT Chennai
+## I am Btech CSE student in VIT Chennai
 
 - 🔭 I am passionate frontend Developer.
 - 🌱 I’m currently exploring Android Development.
