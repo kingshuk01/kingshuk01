@@ -48,6 +48,6 @@
 
 
 
-[website]: www.google.com/
+[website]: https://kingshuk01.github.io/portfolio/
 [instagram]:https://www.instagram.com/kingshuk.mukherjee/
 [linkedin]: https://www.linkedin.com/in/kingshuk-mukherjee-762177191/
