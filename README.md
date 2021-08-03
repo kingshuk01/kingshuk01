@@ -30,7 +30,7 @@
 <br />
 
 ## Figma
-here😅 [https://www.figma.com/file/HFqOPfYHpsK0sEviEgfyKm/first-designs?node-id=0%3A1]
+[<p>here😅</p>][figma]
 
 ## Connect with me:
 
@@ -49,8 +49,7 @@ here😅 [https://www.figma.com/file/HFqOPfYHpsK0sEviEgfyKm/first-designs?node-i
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kingshuk01.kingshuk01)
 
-
-
+[figma]: https://www.figma.com/file/HFqOPfYHpsK0sEviEgfyKm/first-designs?node-id=0%3A1
 [website]: https://kingshuk01.github.io/portfolio/
 [instagram]:https://www.instagram.com/kingshuk.mukherjee/
 [linkedin]: https://www.linkedin.com/in/kingshuk-mukherjee-762177191/
