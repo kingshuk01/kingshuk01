@@ -30,11 +30,11 @@
 <br />
 
 ## Figma
-https://www.figma.com/file/HFqOPfYHpsK0sEviEgfyKm/first-designs?node-id=0%3A1
+here😅 [https://www.figma.com/file/HFqOPfYHpsK0sEviEgfyKm/first-designs?node-id=0%3A1]
 
 ## Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="website" width="22px" style={color:white} src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
