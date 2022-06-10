@@ -3,8 +3,8 @@
 ## I am Software developer, currently pursuing my Btech in CSE.
 
 - 💻 I am a full stack Developer.
+- ❤️ I specialize in frontend development
 - 📱 I also develop native apps
-- 📷 I also have some experience in computer vision
 
 <!--  - 👨‍💻 All of my projects are available in my [website] -->
 
